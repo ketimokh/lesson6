@@ -1,0 +1,88 @@
+.navbar-li{
+	display: inline-block;
+	font-size: 48px;
+}
+.logo{
+	padding: 49px 55px 63px;
+	width: 100px;
+	display: block;
+	float: right;
+}
+.logo img{
+	width: 100%;
+}
+.navbar{
+	float: right;
+    padding-top: 50px;
+}
+.navbar-a{
+	color: white;
+	padding-right: 56px;
+}
+.clear:{
+	clear: both;
+}
+.conteiner{
+	max-width: 1366px;
+    width: 100%;
+    height: 780px;
+    margin: 40px auto;
+}
+.conteiner-wrapper{
+	margin-right: 55px;
+    height: 700px;
+}
+.box{
+	width: 1286px;
+    background-color: #56836F;
+    height: 700px;
+    border: 4px #006837 solid;
+}
+.box-margin{
+	margin-top: 184px;
+}
+.varius-block{
+	width: 617px;
+    height: 356px;
+    background-color: #FCEE21;
+    float: left;
+    margin-left: 72px;
+}
+.varius-block2{
+	width: 523px;
+    height: 360px;
+    background-color: #FCEE21;
+    float: right;
+}
+.pic-style{
+	display: inline-block;
+	width: 151px;
+    height: 118px;
+    float: right;
+    padding: 18px 31px 34px 45px;
+}
+.pic-style-block{
+	display: inline-block;
+	width: 151px;
+    height: 118px;
+    float: left;
+    padding: 18px 18px 35px 31px;
+}
+.urna-block{
+	padding: 14px 28px 14px 18px;
+	font-size: 14px;
+}
+.urna-block-t{
+	padding:21px 20px 0 26px;
+	font-size: 14px;
+}
+.urna-block-h{
+	padding: 14px 28px 14px 18px;
+	font-size: 14px;
+	color: #006837;
+}
+.urna-block-text{
+	padding: 14px 28px 14px 18px;
+	font-size: 14px;
+	color: #006837;
+}
